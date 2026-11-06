@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "renal"
+version = "0.1.0"
+description = "A truly neutral research cookie cutter"
+requires-python = ">=3.14"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["."]
