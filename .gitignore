@@ -7,3 +7,5 @@ data
 results
 data/
 results/
+# instructor-only material (kept locally)
+scripts/archive/
